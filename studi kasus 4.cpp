@@ -1,3 +1,4 @@
+//* STUDI KASUS MINIMARKET *//
 #include <iostream>
 #include <iomanip>
 using namespace std;
